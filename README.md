@@ -61,6 +61,8 @@ Cliquez sur **Scanner le Wi-Fi**.
 L’onglet **Réseaux Wi-Fi** affiche les informations retournées par Windows.
 
 Si Windows refuse l’accès aux informations Wi-Fi, vérifiez les autorisations de localisation ainsi que l’activation de votre carte sans fil.
+<img width="803" height="673" alt="Capture d&#39;écran 2026-10-31 132403" src="https://github.com/user-attachments/assets/65ba4555-2e8b-407c-a7f6-173a26cc3d93" />
+
 
 ### Mesurer le débit
 
@@ -69,6 +71,8 @@ Si Windows refuse l’accès aux informations Wi-Fi, vérifiez les autorisations
 3. Consultez les indicateurs et les détails dans l’onglet **Test de débit**.
 
 Chaque test lit au maximum **25 Mo**. Le transfert s’arrête lorsque cette limite est atteinte ou après environ **15 secondes de mesure**. Une lecture en cours peut prolonger ce délai.
+<img width="803" height="673" alt="Capture d&#39;écran 2026-10-31 132342" src="https://github.com/user-attachments/assets/b4ad7238-1d81-4074-a732-317c84115a4b" />
+
 
 ### Serveurs utilisés
 
